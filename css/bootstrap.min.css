@@ -1,0 +1,9 @@
+.foto-perfil{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+.text-center{
+    text-align: center;
+}
