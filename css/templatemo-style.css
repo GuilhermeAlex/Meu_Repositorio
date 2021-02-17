@@ -286,6 +286,9 @@ p {
 #redesSociais{
   text-align: center;
 }
+.code{
+  width: 30%;
+}
 
 @media (max-width: 1054px) {
   .tm-contact-item-icon {
