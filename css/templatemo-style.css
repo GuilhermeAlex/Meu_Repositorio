@@ -346,9 +346,12 @@ p {
   }
 }
 
-@media (max-width: 443px) {
+@media (max-width: 414px) {
   .tm-brand-name {
-    font-size: 3rem;
+    font-size: 1.7rem;
+  }
+  body{
+    width: 100vw;
   }
 
   .tm-brand-container {
