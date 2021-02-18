@@ -367,4 +367,10 @@ p {
     width: 150px!important;
     height: 150px!important;
   }
+  
+}
+@media (max-width: 360px){
+  .tm-welcome-right{
+    padding-top: 10px!important;
+  }
 }
