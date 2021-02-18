@@ -363,4 +363,8 @@ p {
   .tm-brand-container {
     padding: 25px;
   }
+  .foto-perfil{
+    width: 150px!important;
+    height: 150px!important;
+  }
 }
