@@ -289,6 +289,12 @@ p {
 .code{
   width: 30%;
 }
+.foto-perfil{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+}
 
 @media (max-width: 1054px) {
   .tm-contact-item-icon {
