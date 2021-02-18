@@ -373,4 +373,8 @@ p {
   .tm-welcome-right{
     padding-top: 10px!important;
   }
+  .tm-welcome-left{
+    padding-top: 35px!important;
+    padding-bottom: 35px!important;
+  }
 }
